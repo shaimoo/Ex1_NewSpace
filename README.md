@@ -37,3 +37,9 @@
 עוברים על תקיית התמונות ועבור כל תמונה נציג את מיקומם של הכוכבים על ציר הx,y את עוצמתם, והרדיוס של כל כוכב  . <br />  <br />
 ![image](https://user-images.githubusercontent.com/92544909/233651849-13b36973-bf62-4b66-8547-3f6884107510.png) <br />
 
+
+## חלק 3 
+בחלק זה ממשנו את חלק 1 בקובץ match.p . <br /> <br /> 
+![image](https://user-images.githubusercontent.com/92544909/233663304-d559d40a-855b-4fd7-b9bb-54f78ec47a95.png)
+
+
