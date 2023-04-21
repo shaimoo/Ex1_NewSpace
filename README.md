@@ -39,12 +39,15 @@
 
 
 ## חלק 3 
-בחלק זה ממשנו את חלק 1 בקובץ Part3.py <br /> <br /> 
-![image](https://user-images.githubusercontent.com/92544909/233663304-d559d40a-855b-4fd7-b9bb-54f78ec47a95.png)
+בחלק זה ממשנו את חלק 1 בקובץPart3.py <br /> <br />
+אנו מגרילים 2 תמונות מתקיית התמונות באופן רנדומלי. <br />
+ותמונות אלה אנו מריצים את חלק 1 של האלגוריתם. מציגים את ההתאמות עם קווים. <br />  
+
+![image](https://user-images.githubusercontent.com/92544909/233663304-d559d40a-855b-4fd7-b9bb-54f78ec47a95.png) <br />
 
   ## how to download  <br />
 - To download the task from GitHub, you should navigate to the top level of the project , and then a green "Code" download button will be visible on the right.
    Choose the Download ZIP option from the Code pull-down menu. That ZIP file will contain the entire repository content.
   ## how to use  <br />
 - After you download the task at zip you need to extract  the zip file , then you need 
-  to open IDE and run the files ,then you need to start the main and the prog will start . 
+  to open IDE and run the files ,then you need to start the main at the file you want then he will start . 
